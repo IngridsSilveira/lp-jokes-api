@@ -1,7 +1,7 @@
 import {Header, Section, Footer} from './components/index'
 function App() {
   return (
-    <div className="">
+    <div className="h-screen w-screen flex flex-col justify-between bg-slate-100">
       <Header/>
       <Section/>
       <Footer/>
