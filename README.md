@@ -19,7 +19,7 @@ Instalação:
 
 Passo a Passo para Rodar:
 
-    Execute npm start para iniciar o servidor de desenvolvimento.
+    Execute npm start para iniciar o servidor de desenvolvimento..
     
     Acesse http://localhost:3000 no navegador para utilizar a aplicação.
 
