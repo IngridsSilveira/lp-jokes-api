@@ -1,6 +1,6 @@
 export const Header = () => {
   return (
-    <div className="max-w-full flex justify-between items-center p-2 bg-blue-600 text-white">
+    <div className="max-w-full flex justify-between items-center p-2 bg-yellow-400 ">
       {/* Inicio */}
       <h2 className="cursor-pointer font-fredoka text-lg hover:underline">
         Início
